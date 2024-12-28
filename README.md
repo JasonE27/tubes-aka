@@ -1,6 +1,6 @@
 # Tugas Besar AKA IF-47-06
 ## Topik
-Banyak Cara Penempatan Buku Menggunakan Permutasi dan Kombinasi.
+Banyak Cara Penempatan Buku Menggunakan Kombinasi
 
 ## Algoritma
 - Fungsi Faktorial (iteratif)
